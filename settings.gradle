@@ -1,0 +1,3 @@
+rootProject.name = 'GradleMulti'
+include 'sub1'
+include 'sub2'
